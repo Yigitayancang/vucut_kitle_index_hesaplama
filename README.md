@@ -1,0 +1,1 @@
+# vucut_kitle_index_hesaplama
